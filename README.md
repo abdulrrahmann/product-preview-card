@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend mentor solution URL](https://your-solution-url.com)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Solution URL: [Frontend mentor solution URL](https://www.frontendmentor.io/solutions/responsive-product-preview-card-sspqjIS0W_)
+- Live Site URL: [Live site URL](https://abdulrrahmann.github.io/product-preview-card/)
 
 ## My process
 
